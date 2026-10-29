@@ -107,7 +107,7 @@ The sample data represents academic activities such as research publications, cu
 
 ## Power BI Dashboard
 
-[Faculty Goals Dashboard](faculty_goals powerBI.png)
+[Faculty Goals Dashboard](faculty_goals%20powerBI.png)
 
 The project includes a Power BI report for visualizing faculty goal and progress data.
 
